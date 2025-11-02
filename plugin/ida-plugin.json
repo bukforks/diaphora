@@ -1,0 +1,7 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "diaphora",
+    "entryPoint": "diaphora_plugin.py"
+  }
+}
